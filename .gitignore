@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Lovable cache
+*.lovable-cache
+*.lovable-temp
+
+# n8n credentials
+backend/n8n/credentials.json
+backend/n8n/.env
+
+# backups
+*.bak
+*.tmp
+
+# Node
+node_modules/
